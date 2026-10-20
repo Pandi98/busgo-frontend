@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
